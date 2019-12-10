@@ -1,109 +1,90 @@
 {
-    "data": [
+    "children": [
         {
-            "keys": [
-                "Bitcoin",
-                "BTC"
+            "children": [
+                {
+                    "name": "Positive",
+                    "size": 0.3125
+                },
+                {
+                    "name": "Negative",
+                    "size": 0.109375
+                },
+                {
+                    "name": "Neutral",
+                    "size": 0.578125
+                }
             ],
-            "negative": {
-                "favorites": 4,
-                "fraction": 0.24324324324324326,
-                "retweets": 410
-            },
-            "neutral": {
-                "favorites": 0,
-                "fraction": 0.4864864864864865,
-                "retweets": 1185
-            },
-            "positive": {
-                "favorites": 4,
-                "fraction": 0.2702702702702703,
-                "retweets": 321
-            }
+            "name": "BTC"
         },
         {
-            "keys": [
-                "Ethereum",
-                "ETH"
+            "children": [
+                {
+                    "name": "Positive",
+                    "size": 0.27956989247311825
+                },
+                {
+                    "name": "Negative",
+                    "size": 0.10752688172043011
+                },
+                {
+                    "name": "Neutral",
+                    "size": 0.6129032258064516
+                }
             ],
-            "negative": {
-                "favorites": 3,
-                "fraction": 0.12903225806451613,
-                "retweets": 251
-            },
-            "neutral": {
-                "favorites": 19,
-                "fraction": 0.5591397849462365,
-                "retweets": 789
-            },
-            "positive": {
-                "favorites": 16,
-                "fraction": 0.3118279569892473,
-                "retweets": 4536
-            }
+            "name": "ETH"
         },
         {
-            "keys": [
-                "Ripple",
-                "XRP"
+            "children": [
+                {
+                    "name": "Positive",
+                    "size": 0.35064935064935066
+                },
+                {
+                    "name": "Negative",
+                    "size": 0.16883116883116883
+                },
+                {
+                    "name": "Neutral",
+                    "size": 0.4805194805194805
+                }
             ],
-            "negative": {
-                "favorites": 7,
-                "fraction": 0.15942028985507245,
-                "retweets": 316
-            },
-            "neutral": {
-                "favorites": 19,
-                "fraction": 0.391304347826087,
-                "retweets": 619
-            },
-            "positive": {
-                "favorites": 5,
-                "fraction": 0.4492753623188406,
-                "retweets": 1240
-            }
+            "name": "XRP"
         },
         {
-            "keys": [
-                "LiteCoin",
-                "LTC"
+            "children": [
+                {
+                    "name": "Positive",
+                    "size": 0.3048780487804878
+                },
+                {
+                    "name": "Negative",
+                    "size": 0.06097560975609756
+                },
+                {
+                    "name": "Neutral",
+                    "size": 0.6341463414634146
+                }
             ],
-            "negative": {
-                "favorites": 11,
-                "fraction": 0.060240963855421686,
-                "retweets": 3
-            },
-            "neutral": {
-                "favorites": 9,
-                "fraction": 0.6265060240963856,
-                "retweets": 56
-            },
-            "positive": {
-                "favorites": 11,
-                "fraction": 0.3132530120481928,
-                "retweets": 32
-            }
+            "name": "LTC"
         },
         {
-            "keys": [
-                "BitcoinCash",
-                "BCH"
+            "children": [
+                {
+                    "name": "Positive",
+                    "size": 0.19117647058823528
+                },
+                {
+                    "name": "Negative",
+                    "size": 0.10294117647058823
+                },
+                {
+                    "name": "Neutral",
+                    "size": 0.7058823529411765
+                }
             ],
-            "negative": {
-                "favorites": 14,
-                "fraction": 0.1044776119402985,
-                "retweets": 1
-            },
-            "neutral": {
-                "favorites": 10,
-                "fraction": 0.7014925373134329,
-                "retweets": 788
-            },
-            "positive": {
-                "favorites": 27,
-                "fraction": 0.19402985074626866,
-                "retweets": 67
-            }
+            "name": "BCH"
         }
-    ]
+    ],
+    "name": "Cryptocurrencies"
 }
