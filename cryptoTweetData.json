@@ -4,86 +4,86 @@
             "children": [
                 {
                     "name": "Positive",
-                    "value": 31.25
+                    "value": 7.02247191011236
                 },
                 {
                     "name": "Negative",
-                    "value": 8.75
+                    "value": 3.089887640449438
                 },
                 {
                     "name": "Neutral",
-                    "value": 60.0
+                    "value": 11.797752808988763
                 }
             ],
-            "name": "BTC"
+            "name": "Bitcoin (BTC)"
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 30.681818181818183
+                    "value": 7.865168539325842
                 },
                 {
                     "name": "Negative",
-                    "value": 11.363636363636363
+                    "value": 3.651685393258427
                 },
                 {
                     "name": "Neutral",
-                    "value": 57.95454545454546
+                    "value": 10.393258426966293
                 }
             ],
-            "name": "ETH"
+            "name": "Ethereum (ETH)"
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 33.33333333333333
+                    "value": 5.8988764044943816
                 },
                 {
                     "name": "Negative",
-                    "value": 22.22222222222222
+                    "value": 1.4044943820224718
                 },
                 {
                     "name": "Neutral",
-                    "value": 44.44444444444444
+                    "value": 7.865168539325842
                 }
             ],
-            "name": "XRP"
+            "name": "Ripple (XRP)"
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 27.160493827160494
+                    "value": 5.337078651685393
                 },
                 {
                     "name": "Negative",
-                    "value": 1.2345679012345678
+                    "value": 0.5617977528089888
                 },
                 {
                     "name": "Neutral",
-                    "value": 71.60493827160494
+                    "value": 14.325842696629213
                 }
             ],
-            "name": "LTC"
+            "name": "Litecoin (LTC)"
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 16.666666666666664
+                    "value": 3.651685393258427
                 },
                 {
                     "name": "Negative",
-                    "value": 6.944444444444445
+                    "value": 0.8426966292134831
                 },
                 {
                     "name": "Neutral",
-                    "value": 76.38888888888889
+                    "value": 16.292134831460675
                 }
             ],
-            "name": "BCH"
+            "name": "Bitcoin Cash (BCH)"
         }
     ],
     "name": "Cryptocurrencies"
