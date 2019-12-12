@@ -4,86 +4,91 @@
             "children": [
                 {
                     "name": "Positive",
-                    "value": 3.6011080332409975
+                    "value": 8.831908831908832
                 },
                 {
                     "name": "Negative",
-                    "value": 3.32409972299169
+                    "value": 1.1396011396011396
                 },
                 {
                     "name": "Neutral",
-                    "value": 14.681440443213297
+                    "value": 11.965811965811966
                 }
             ],
-            "name": "Bitcoin (BTC)"
+            "name": "Bitcoin BTC",
+            "value": 21.937321937321936
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 7.479224376731302
+                    "value": 8.262108262108262
                 },
                 {
                     "name": "Negative",
-                    "value": 2.7700831024930745
+                    "value": 1.7094017094017095
                 },
                 {
                     "name": "Neutral",
-                    "value": 10.249307479224377
+                    "value": 11.965811965811966
                 }
             ],
-            "name": "Ethereum (ETH)"
+            "name": "Ethereum ETH",
+            "value": 21.937321937321936
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 7.479224376731302
+                    "value": 6.552706552706552
                 },
                 {
                     "name": "Negative",
-                    "value": 1.9390581717451523
+                    "value": 2.849002849002849
                 },
                 {
                     "name": "Neutral",
-                    "value": 7.756232686980609
+                    "value": 9.116809116809117
                 }
             ],
-            "name": "Ripple (XRP)"
+            "name": "Ripple XRP",
+            "value": 18.51851851851852
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 5.540166204986149
+                    "value": 7.4074074074074066
                 },
                 {
                     "name": "Negative",
-                    "value": 0.8310249307479225
+                    "value": 1.4245014245014245
                 },
                 {
                     "name": "Neutral",
-                    "value": 13.850415512465375
+                    "value": 15.384615384615385
                 }
             ],
-            "name": "Litecoin (LTC)"
+            "name": "Litecoin LTC",
+            "value": 24.216524216524217
         },
         {
             "children": [
                 {
                     "name": "Positive",
-                    "value": 3.6011080332409975
+                    "value": 3.9886039886039883
                 },
                 {
                     "name": "Negative",
-                    "value": 1.10803324099723
+                    "value": 0.8547008547008548
                 },
                 {
                     "name": "Neutral",
-                    "value": 15.789473684210526
+                    "value": 8.547008547008547
                 }
             ],
-            "name": "Bitcoin Cash (BCH)"
+            "name": "Bitcoin Cash BCH",
+            "value": 13.390313390313391
         }
     ],
     "name": "Cryptocurrencies"
